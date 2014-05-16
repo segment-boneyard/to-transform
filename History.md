@@ -1,5 +1,5 @@
 
-0.0.1 / 2014-05-14
+1.0.1 / 2014-05-15
 ==================
 
-  * Initial release
+ * updating package.json keywords
