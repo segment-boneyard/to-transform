@@ -2,7 +2,11 @@
   "name": "to-transform",
   "version": "1.0.0",
   "description": "Simple wrapper to create a transform stream",
-  "keywords": [],
+  "keywords": [
+    "transform",
+    "stream",
+    "wrapper"
+  ],
   "author": "Segment.io team@segment.io",
   "repository": { "type": "git", "url": "git://github.com/segmentio/to-transform.git" },
   "dependencies": {},

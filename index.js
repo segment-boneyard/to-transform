@@ -4,7 +4,10 @@ var inherits = require('util').inherits;
 var tick = process.nextTick;
 
 /**
- * Create a simple way
+ * Create a simple transform stream constructor
+ *
+ * @param {Function} fn
+ * @return {Function} Stream
  */
 
 module.exports = function(fn){
